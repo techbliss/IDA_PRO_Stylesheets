@@ -12,7 +12,6 @@ For permanent style you can use the [Idaskin](https://github.com/zyantific/IDASk
 ![image](https://user-images.githubusercontent.com/3592375/62837835-74019600-bc74-11e9-9152-fcffa5ee9ff1.png)
 
 **Blue Mod**
-9152-fcffa5ee9ff1.png)
 ![image](https://user-images.githubusercontent.com/3592375/62837859-ba56f500-bc74-11e9-9c38-3d614de1f4b4.png)
 
 **Orange Mod**
@@ -31,4 +30,5 @@ For permanent style you can use the [Idaskin](https://github.com/zyantific/IDASk
 ![image](https://user-images.githubusercontent.com/3592375/62837912-74e6f780-bc75-11e9-89cc-b4dcb12cc0f5.png)
 
 **thx**
+
 Ethan Schoonover author of Solarized
