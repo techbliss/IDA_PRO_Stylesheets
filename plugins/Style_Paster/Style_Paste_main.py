@@ -131,6 +131,6 @@ StyleSheetEditor = QtWidgets.QWidget()
 ui = Ui_StyleSheetEditor()
 ui.setupUi(StyleSheetEditor)
 StyleSheetEditor.show()
-print "helllllllllllllllllllllllooooooooooooooooooooo"
+
 #app.exec_()
 
