@@ -4,7 +4,8 @@ YOu can load css stylesheets directlly into ida pro from 7.3
 
 **Stylesheets for ida 7.2+**
 For ida 7.2 you can test the stylesheets with the supplied plugin, just copy everythihng into the ida\plugins folder and just load and paste and see if you like them.
-for permanent style you can use the [Idaskin](https://github.com/zyantific/IDASkins)
+
+For permanent style you can use the [Idaskin](https://github.com/zyantific/IDASkins)
 
 
 **Cyan Mod**
