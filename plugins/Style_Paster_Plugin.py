@@ -11,9 +11,9 @@ import ico
 from ico import *
 
 PLUGIN_VERSION = "1.0" #change Plugin Version
-IDAVERISONS    = "IDA PRO 7.0+" #change Ida version
+IDAVERISONS    = "IDA PRO 7.2+" #change Ida version
 AUTHORS        = "Storm Shadow" #change author
-DATE           = "2017" #change date
+DATE           = "2019" #change date
 TWITTER        = "Twitter @zadow28" #change social media
 
 def banner():
