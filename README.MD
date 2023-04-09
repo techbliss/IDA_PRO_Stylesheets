@@ -1,3 +1,4 @@
+**IDA 7.7 update to python 3.x**
 **IDA 7.3 [added theming support](https://www.hex-rays.com/products/ida/7.3/index.shtml)**
 YOu can load css stylesheets directlly into ida pro from 7.3
 
